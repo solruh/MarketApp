@@ -2,6 +2,7 @@ import React from "react";
 import {View,ScrollView,SafeAreaView,Text,Image, TouchableOpacity} from "react-native"
 import ImageCropPicker from "react-native-image-crop-picker";
 import FabResource from "../Src/FabResource";
+/*This is just for practice purpose*/
 const Iterate = () => {
     const tabs = ["WinterFood","Neighborhood","Questions","Restaurants","Hobby","Daily","News","Football","movies","Android","Manunited","CristanioRonaldo","Messi","Benzema","Ozil","Brazil","soccer","recentlyadded","notifications"]
     return (
